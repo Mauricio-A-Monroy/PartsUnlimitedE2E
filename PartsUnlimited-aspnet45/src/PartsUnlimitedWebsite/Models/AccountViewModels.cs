@@ -5,6 +5,7 @@ using Microsoft.Owin.Security;
 
 namespace PartsUnlimited.Models
 {
+    //pr
     public class ExternalLoginConfirmationViewModel
     {
         [Required]
