@@ -2,7 +2,7 @@
 
 namespace PartsUnlimited.Models
 {
-    //comentario
+    //comentario 2
     public class ApplicationUser : IdentityUser
     {
         public string Name { get; set; }
